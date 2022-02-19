@@ -1,0 +1,15 @@
+[submodule "wsure-guild-common"]
+	path = wsure-guild-common
+	url = https://github.com/WsureGuild/wsure-guild-common.git
+[submodule "go-cqhttp-guild-bot"]
+	path = go-cqhttp-guild-bot
+	url = https://github.com/WsureGuild/go-cqhttp-guild-bot.git
+[submodule "qq-official-guild-bot"]
+	path = qq-official-guild-bot
+	url = https://github.com/WsureGuild/qq-official-guild-bot.git
+[submodule "compose-guild-bot"]
+	path = compose-guild-bot
+	url = https://github.com/WsureGuild/compose-guild-bot.git
+[submodule "wsure-bililiver"]
+	path = wsure-bililiver
+	url = https://github.com/WsureDev/wsure-bililiver.git
